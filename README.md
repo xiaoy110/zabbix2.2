@@ -1,14 +1,6 @@
 # zabbix2.2
 ## zabbix api使用说明
 ### 添加删除主机
-> like this
-
-asfads* asdfasdfasdf**
-tables are cool
-col3is xxx $asdf
-`import os
- print os.path()
- print 'xxxxxxxxxx'`
  ***
 - host_add.py  添加主机
 - host_del.py  删除主机
